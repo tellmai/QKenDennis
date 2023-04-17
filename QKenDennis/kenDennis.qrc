@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bt__disable.png</file>
+        <file>image/bt_active.png</file>
+        <file>image/bt_hover.png</file>
+        <file>image/bt_normal.png</file>
+        <file>image/close_active.png</file>
+        <file>image/close_hover.png</file>
+        <file>image/close_normal.png</file>
+        <file>image/Connection statuP_disable2.png</file>
+        <file>image/Connection statuP_green.png</file>
+        <file>image/Connection statuP_green2.png</file>
+        <file>image/Connection statuP_red.png</file>
+        <file>image/Connection statuP_red2.png</file>
+        <file>image/enlarg_active.png</file>
+        <file>image/enlarge_hover.png</file>
+        <file>image/enlarge_normal.png</file>
+        <file>image/folder.png</file>
+        <file>image/icon-sort.png</file>
+        <file>image/logo.png</file>
+        <file>image/logo16.ico</file>
+        <file>image/logo32.ico</file>
+        <file>image/logo48.ico</file>
+        <file>image/logo64.ico</file>
+        <file>image/logo128.ico</file>
+        <file>image/logo256.ico</file>
+        <file>image/maximize_hover(1).png</file>
+        <file>image/maximize_hover.png</file>
+        <file>image/maximize_normal.png</file>
+        <file>image/minimize_active.png</file>
+        <file>image/minimize_hover.png</file>
+        <file>image/minimize_normal.png</file>
+        <file>image/task_doing.gif</file>
+        <file>image/uping.gif</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
